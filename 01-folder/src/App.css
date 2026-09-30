@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+}
+table{
+    /* border-collapse: collapse; */
+    border:2px solid rgb(239, 10, 90);
+    /* padding:10px; */
+    margin:5px;
+    border-width: 1px;
+    color:rgb(239, 10, 90);
+    align-items: center;
+}
+td,th{
+    border:1px solid rgb(239, 10, 90);
+    padding:10px;
+    border-radius: 2px;
+    border-collapse:initial;
+    /* border-width: 2px; */
+    color:rgb(239, 10, 90);
+}
+.hello {
+    color:rgb(239, 10, 90);
+    font-size: 70px;
+    font-weight: 800;
+}
